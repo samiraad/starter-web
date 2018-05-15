@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 ## Copyright
 Copyright 2018
 
+Please fork this project and pull
