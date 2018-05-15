@@ -9,3 +9,6 @@ Added the purpose of this file
 This is a simple project
 Sample website with plenty of files for demos
 
+## Copyright
+Copyright 2018
+
